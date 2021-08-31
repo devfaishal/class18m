@@ -478,10 +478,10 @@ body{
 }
 .d_input.d_input_send {
 	width: 240px;
-	background: #aa972c;
+	background: #ac9226;
 	padding: 23px 0;
 	color: #edf9fc;
-	border: 2px solid #ab982f66;
+	border: 2px solid #ac92267a;
 }
 .d_input.d_input_send:hover {
 	background: #fcfcfb;
