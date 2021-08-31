@@ -311,8 +311,9 @@ body{
 	font-size: 55px;
 	font-weight: 500;
 }
-.service_content{
+.service_content {
 	margin-top: 35px;
+	margin-bottom: 5px;
 }
 .service_left_img{
 	width: 43%;
